@@ -1,8 +1,9 @@
 # 2020-CED4RA--Project-Group-
 
-##Menber
+##Member
 
-- Mr.Maitree Narpoe
+- 6002041620110 Mr.Maitree Narpoe
+- 6002041620152 Mrs. Suttita Thawitchaiyaporn
 
 ##Reference
 
